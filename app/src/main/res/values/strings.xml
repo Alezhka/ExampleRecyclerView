@@ -2,8 +2,11 @@
 <resources>
 
     <string name="app_name">RecyclerView</string>
+    <string name="android_casts">Android Casts</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_add">Add</string>
     <string name="action_remove">Remove</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="action_settings">Settings</string>
 
 </resources>
